@@ -1,0 +1,20 @@
+# Ignore compiled classes
+/bin/
+*.class
+
+# Ignore database
+*.db
+*.sqlite
+
+# Ignore keys & keystore
+/keys/
+/keystore/
+*.jks
+*.cer
+*.pem
+*.p12
+
+# Ignore IDE/OS files
+*.log
+.DS_Store
+Thumbs.db
