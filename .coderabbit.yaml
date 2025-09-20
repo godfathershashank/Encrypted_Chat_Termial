@@ -1,0 +1,9 @@
+review:
+  depth: high          # Detailed review
+  focus:
+    - security         # Focus on Security issues
+    - performance      # Performance optimize suggestions
+    - readability      # Code clarity aur maintainability
+  ignore:
+    - test/*           # Ignore Test folder
+    - docs/*           # Ignore Docs folder
