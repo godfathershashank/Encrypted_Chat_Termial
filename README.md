@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgement
 
 This project was developed by **Shashank Singh Gautam**
-as part of a learning project at **ITM GIDA, Gorakhpur, India**. ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/godfathershashank/Encrypted_Chat_Termial?utm_source=oss&utm_medium=github&utm_campaign=godfathershashank%2FEncrypted_Chat_Termial&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+as part of a his learning project at **ITM GIDA, Gorakhpur, India**. ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/godfathershashank/Encrypted_Chat_Termial?utm_source=oss&utm_medium=github&utm_campaign=godfathershashank%2FEncrypted_Chat_Termial&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
